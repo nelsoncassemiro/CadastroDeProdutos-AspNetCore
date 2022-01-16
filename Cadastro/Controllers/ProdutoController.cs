@@ -11,7 +11,6 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Cadastro.Controllers
 {
-    [Authorize]
 
     public class ProdutoController : Controller
     {
